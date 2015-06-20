@@ -1,0 +1,1 @@
+print 'DJ is a god.'
